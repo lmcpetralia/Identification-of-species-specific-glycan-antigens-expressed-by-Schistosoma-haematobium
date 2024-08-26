@@ -1,6 +1,8 @@
 # Identification-of-species-specific-glycan-antigens-expressed-by-Schistosoma-haematobium
 Supplementary material repository for PhD thesis Chapter 2: 'Identification of species-specific glycan antigens expressed by Schistosoma haematobium'
+
 Repository content :
+
 Supplementary Tables
 -	Table S1: MALDI-TOF-MS raw data
 -	Table S2: GSL glycans - structural characterization
@@ -10,6 +12,7 @@ Supplementary Tables
 -	Table S6: Glycan microarray validation using mAbs (raw data)
 -	Table S7: IgG responses (raw glycan array data & statistics)
 -	Table S8: IgM responses (raw glycan array data & statistics)
+
 Supplementary Figures
 -	Figure S1: MALDI-TOF-MS spectra of S. haematobium GSL, N-linked and O-linked glycans
 -	Figure S2: Structural characterization of S. haematobium and S. mansoni GSL glycans
