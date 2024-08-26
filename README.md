@@ -1,5 +1,6 @@
 # Identification-of-species-specific-glycan-antigens-expressed-by-Schistosoma-haematobium
 Supplementary material repository for PhD thesis Chapter 2: 'Identification of species-specific glycan antigens expressed by Schistosoma haematobium'
+Author : Laudine M. C. Petralia
 
 Repository content :
 
